@@ -1,0 +1,2 @@
+# Jaringan_Syaraf__Tiruan_SCRETCH
+Jaringan_Syaraf__Tiruan_SCRETCH_Backward Propagation
